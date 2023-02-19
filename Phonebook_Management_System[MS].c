@@ -1,7 +1,5 @@
 /******************************************************************************************************
   Program Name: Phone Book Management System
-  Programmer: Sagor Ahmed
-  ID: 222902022
   Description: This program has a login system that authenticates the user using a password.
   Once the user is authenticated, they are presented with a menu of options to choose from.
   The options include adding a new contact to the phone book, showing all the contacts,
