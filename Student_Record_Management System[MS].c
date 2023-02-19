@@ -1,7 +1,5 @@
 /**
    Program Name: Student Record Management System
-   Name: Anjumand Binte Mahmud
-   Id: 222902005
    Description: The program allows users to add student information,
    search for a student record,view all student records,
    delete a student record,modify a student record,delete all student record,
